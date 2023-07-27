@@ -1,4 +1,3 @@
-### Hi there 👋
 
 I'm a PhD Candidate in Economics at Georgetown University. My work focuses on Environmental Economics, Development Economics, and Agricultural Economics.
 
