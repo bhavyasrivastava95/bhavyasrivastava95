@@ -7,14 +7,6 @@ title: "Research"
 
 <br>
 
-#### Heat and Learning: Evidence from Ethiopia 
-
-(with [Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
-
-We find that high temperatures during school years reduce test scores in a high-stakes exam in Ethiopia. We use data spanning 2003-2019 from 2.47 million test-takers of the national high stakes exam, the Ethiopian Higher Education Entrance Certificate Examination. Our results suggest that the scores of female students are less impacted by higher temperatures as compared to their male counterparts. Additionally, we find that students from schools located in hotter regions are able to better cope with higher temperatures as compared to their counterparts from cooler regions. We posit this as suggestive evidence of non-cooling adaptation to heat exposure, since Ethiopian schools have negligible adoption of cooling technologies.
-
-<br>
-
 #### One Bullet Property Rights: Leader Turnover Causes Expropriation of FDI in Personalist Autocracies 
 
 (with [Timothy Liptrot](https://timothyliptrot.wordpress.com/))
@@ -30,3 +22,4 @@ While the impact of democratic constraints on executive behavior has been extens
 * Identifying Food Baskets for Africa (with Aparajita Goyal, Ifeanyi Nzegwu Edochie, and Andrew L. Dabalen)
 * Can an Employment Guarantee Modernise Agriculture? Evidence from India 
 * Climate Change and Mechanization of Agriculture in India (with [Rimjhim Saxena](https://rimjhimsaxena.github.io/))
+* Temperature and High Stakes Exam Performance in Ethiopia (with [Patrick Behrer](https://www.apatrickbehrer.com/) and [Kibrom Tafere](https://sites.google.com/view/kibrom-tafere/home))
