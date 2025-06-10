@@ -1,5 +1,5 @@
 
-I'm a PhD Candidate in Economics at Georgetown University. My work focuses on Environmental Economics, Development Economics, and Agricultural Economics.
+I'm an Economist at the World Bank. My work focuses on Environmental Economics, Development Economics, and Agricultural Economics.
 
 <!--
 
